@@ -37,6 +37,9 @@ function check($user,$password){
     <meta charset="utf-8">
     <title></title>
     <style media="screen">
+      html{
+        background-color: rgba(120, 250, 120, 0.5);
+      }
       h1{
         text-align: center;
         color: green;
